@@ -25,7 +25,7 @@
   .four {
     grid-column: 4;
     grid-row: 1;
-    background-color: rgb(229, 245, 8);
+    background-color: rgb(245, 8, 194);
   }
   .five {
     grid-column: 2;
@@ -48,7 +48,7 @@
   .eight {
     grid-column: 2 / 5;
     grid-row: 4;
-    background-color: rgb(219, 24, 177);
+    background-color: rgb(24, 219, 203);
     height: 50px;
     margin-top: 25%;
   }
